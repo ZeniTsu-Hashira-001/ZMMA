@@ -1,2 +1,2 @@
 # ZMMA
-Zenitsu Multi Maker ApI
+Zenitsu Multi Maker API
